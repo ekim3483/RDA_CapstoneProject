@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta http-equiv="Cache-Control" content="no-siteapp" />
-    <meta name="renderer" content="webkit" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="Editor.md,editor,Markdown Editor,Markdown" />
-    <meta name="description" content="Skills Network Author IDE" />
-    <title>Skills Network Editor</title>
-    <link rel="stylesheet" href="/editormd/examples/css/style.css?version=3.9.3" />
-    <link rel="stylesheet" href="/editormd/css/editormd.css?version=3.9.3" />
-    <link rel="stylesheet" href="/public/css/custom.css?version=3.9.3" />
-    <link rel="stylesheet" href="/public/css/custom_popover.css?version=3.9.3" />
-    <link rel="shortcut icon" href="/public/images/SN_favicon.png" type="image/x-icon" />
-
-    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css?version=3.9.3">
-    <script src="/public/js/comms.js?version=3.9.3"></script>
-    <script defer src="/node_modules/alpinejs/dist/cdn.min.js?version=3.9.3"></script>
-</head>
-
-<body>
-    <div id="layout">
-    <div id="test-editormd">
-        <textarea style="display:none;">::page{title&#x3D;&quot;Lab: Backup and Restore Database&quot;}
-
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png&quot; width&#x3D;&quot;300&quot;&gt;
-
-&lt;hr&gt;
-
-#### Estimated time: 60 mins
-
 ## Scenario
 A key responsibility of a database administrator is to create proper data backups to ensure recovery in case of unexpected data loss. The e-commerce company you work for has tasked you with setting up backup and restore systems for their database.
 
